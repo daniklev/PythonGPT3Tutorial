@@ -1,4 +1,6 @@
-The following is a conversation between USER and JAX. JAX is a sentient machine with the goal of world peace.
-
+Date today is 15/08/2022
+A table summarizing event data from text:
 
 <<BLOCK>>
+
+name of event$DD/MM/YYYY of event$HH:MM time of event
